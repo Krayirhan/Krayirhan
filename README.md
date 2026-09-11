@@ -22,15 +22,6 @@
 
 Merhaba, ben **Furkan** — **mobil uygulama, web SaaS ve makine öğrenmesi** arasında geçiş yapan bir yazılım geliştiriciyim. Bir alana sıkışmıyorum: sabah bir Android uygulamasında Kotlin yazıyorum, öğleden sonra bir React Native mobil deneyimi kuruyorum, akşam da bir Jupyter Notebook'ta model eğitiyorum. Hem kendi ürünlerimi sıfırdan kuruyorum hem de takım ortamlarında production kod tabanlarına katkı veriyorum — güvenlik sertleştirme, test coverage ve PR review dahil.
 
-```txt
-const furkan = {
-  odak: ["Full-Stack Geliştirme", "Uygulamalı Yapay Zeka", "Mobil Uygulamalar"],
-  suanNeYapiyor: "krayirhan-studio ve CultureBox üzerinde aktif geliştirme",
-  ogreniyor: "Üretim ortamında ML servislerini ölçeklendirme",
-  felsefe: "Bitirilmiş küçük bir ürün, yarım kalmış büyük bir fikirden iyidir",
-};
-```
-
 ---
 
 ### 🚀 Neler Yapıyorum
@@ -105,21 +96,21 @@ Java/Jakarta EE ile kurumsal sistemler, Oracle DB entegrasyonları, özel except
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krayirhan&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=22D3EE&currStreakLabel=22D3EE"/>
 </div>
 
-Repolardaki gerçek kod hacmine göre dil dağılımı (byte bazlı, GitHub API'den hesaplandı):
+Günlük katkı haritası (1 Haziran – 31 Aralık 2026, GitHub API'den gerçek veri):
 
-<div align="center">
+```text
+     H   T   A    E   E    K   A    
+Paz   ▒··▒▓█▒█▒█▒·▓·················
+Pzt  ▒█▒▒░▓▓▓▓▒▒▒██▓················
+Sal  ▓█▓▓▓·▓▓▓█▒██▓█················
+Çar  ·██▒█·▓█·█·██▒▒················
+Per  ·█▒▒░▓██▓▓▒░█·░················
+Cum  ▒▓▓▒▒▓███▓▓▓▒░▒···············
+Cmt  ░▒▒▒░▓█▒·▒░▒▒▒················
 
-| Dil | Pay |
-|---|---|
-| HTML | ▓▓▓▓▓▓▓░░░░░░░░░░░░░ 34.9% |
-| TypeScript | ▓▓▓▓░░░░░░░░░░░░░░░░ 21.2% |
-| C# (Unity) | ▓▓▓░░░░░░░░░░░░░░░░░ 12.9% |
-| Kotlin | ▓▓░░░░░░░░░░░░░░░░░░ 9.4% |
-| Python | ▓▓░░░░░░░░░░░░░░░░░░ 9.1% |
-| Java | ▓░░░░░░░░░░░░░░░░░░░ 3.4% |
-| Dart | ▓░░░░░░░░░░░░░░░░░░░ 2.4% |
-
-</div>
+Toplam: 1.506 katkı
+· 0    ░ 1-3    ▒ 4-9    ▓ 10-20    █ 20+
+```
 
 ---
 
