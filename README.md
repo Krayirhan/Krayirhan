@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Furkan%20Turan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/Krayirhan">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Mobil+%2B+Web+%2B+Yapay+Zeka+%C3%BCretiyorum.;Kotlin+%E2%80%A2+React+Native+%E2%80%A2+Python+%E2%80%A2+Unity;Solo+SaaS+%C3%BCr%C3%BCnleri+ve+tak%C4%B1m+projelerinde+production+kod.;S%C3%BCrekli+kod%2C+s%C3%BCrekli+%C3%B6%C4%9Freniyorum.&font=Fira%20Code&center=true&width=640&height=45&color=22D3EE&vCenter=true&size=22&pause=1800"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Kotlin+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+Unity;Mobil+%2B+Web+%2B+Makine+%C3%96%C4%9Frenmesi&font=Fira%20Code&center=true&width=640&height=45&color=22D3EE&vCenter=true&size=22&pause=1800"/>
 </a>
 
 </div>
@@ -107,8 +107,6 @@ Java/Jakarta EE ile kurumsal sistemler, Oracle DB entegrasyonları, özel except
 ### 📫 İletişim
 
 [![GitHub](https://img.shields.io/badge/GitHub-Krayirhan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krayirhan)
-
-*Bir fikrin mi var? Repolarıma göz at, issue aç ya da bir PR gönder — her zaman yeni bir şeyler inşa etmeye hazırım.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=100&section=footer" width="100%"/>
 
