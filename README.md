@@ -12,7 +12,7 @@
 
 ### 👋 Ben Kimim?
 
-Merhaba, ben **Furkan**. **Mobil uygulama, web SaaS ve makine öğrenmesi** arasında gidip geliyorum — tek bir alana bağlı kalmayı sevmiyorum. Sabah Kotlin ile Android tarafında ilerlerken öğleden sonra React Native'e geçebiliyor, akşam da bir Jupyter Notebook açıp model eğitebiliyorum. Bir yandan kendi ürünlerimi sıfırdan kuruyorum, bir yandan da takım projelerinde production koduna dokunuyorum: güvenlik sertleştirme, test coverage, PR review gibi işler bunun bir parçası.
+Merhaba, ben **Furkan**. **Mobil uygulama, web SaaS ve makine öğrenmesi** olmak üzere üç alanda aktif çalışan bir yazılım geliştiriciyim. Kotlin ile native Android geliştiriyor, React Native ile mobil deneyimler kuruyor, Jupyter Notebook'ta model eğitiyorum — bu üçü elimde aynı anda ilerliyor, biri diğerinin yerini almıyor. Kendi ürünlerimi sıfırdan kuruyorum; takım projelerinde de production koduna dokunuyorum — güvenlik sertleştirme, test coverage, PR review bunun bir parçası.
 
 ---
 
