@@ -8,14 +8,6 @@
 
 </div>
 
-<div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/Krayirhan?label=Takip%C3%A7i&style=for-the-badge&color=6366F1&labelColor=0D1117)](https://github.com/Krayirhan?tab=followers)
-[![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Krayirhan&label=Repo&query=public_repos&style=for-the-badge&color=22D3EE&labelColor=0D1117)](https://github.com/Krayirhan?tab=repositories)
-[![Profile views](https://komarev.com/ghpvc/?username=Krayirhan&style=for-the-badge&color=6366F1&labelColor=0D1117&label=Profil+G%C3%B6r%C3%BCnt%C3%BClenme)](https://github.com/Krayirhan)
-
-</div>
-
 ---
 
 ### 👋 Ben Kimim?
