@@ -100,8 +100,6 @@ Java/Jakarta EE ile kurumsal sistemler, Oracle DB entegrasyonları, özel except
 </picture>
 </div>
 
-*Kendi reponda GitHub Actions ile her gece otomatik üretilir — üçüncü parti bir servise bağımlı değil.*
-
 ---
 
 <div align="center">
