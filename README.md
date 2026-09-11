@@ -90,15 +90,10 @@ Java/Jakarta EE ile kurumsal sistemler, Oracle DB entegrasyonları, özel except
 
 | Proje | Açıklama | Alan |
 |---|---|---|
-| 🧠 [**BratsN**](https://github.com/Krayirhan/BratsN) | BraTS 2020 beyin tümörü segmentasyonu · 2D U-Net · **%86,91 Dice Skoru** | ML / Medikal Görüntüleme |
-| 🏢 [**krayirhan-studio**](https://github.com/Krayirhan/krayirhan-studio) | Aktif geliştirme altında — bu ay en çok commit alan proje | Web / Aktif |
-| 📊 [**churn-risk-platform**](https://github.com/Krayirhan/churn-risk-platform) | Uçtan uca müşteri kaybı riski tahmin platformu · FastAPI ile servis | ML / MLOps |
-| 🏨 [**hotel-booking-cancellation-prediction**](https://github.com/Krayirhan/hotel-booking-cancellation-prediction) | Maliyet-duyarlı karar mekanizmalı otel rezervasyon iptal tahmini | ML / Production |
-| 🏭 [**FactoryVision_AI**](https://github.com/Krayirhan/FactoryVision_AI) | Endüstriyel kusur tespiti MVP'si · FastAPI + Streamlit | ML / Bilgisayarlı Görü |
-| 🎨 [**Floriven-Studio-old**](https://github.com/Krayirhan/Floriven-Studio-old) | AI destekli mobil UI tasarım SaaS ürünü | SaaS / Ürün |
-| 🗺️ [**saha-flow**](https://github.com/Krayirhan/saha-flow) | Saha operasyon yönetim sistemi (SaaS) | SaaS / Web |
-| 🧩 [**BlokDunyasi**](https://github.com/Krayirhan/BlokDunyasi) | Unity ile mobil blok bulmaca oyunu | Oyun Geliştirme |
-| 🗣️ [**lingorise**](https://github.com/Krayirhan/lingorise) | Türkçe konuşanlar için İngilizce kelime öğrenme uygulaması | Mobil / React Native |
+| 🗣️ [**LingoRise**](https://github.com/Krayirhan/lingorise) | Türkçe konuşanlar için İngilizce kelime öğrenme uygulaması | Mobil / React Native |
+| 🧩 [**Blok Dünyası**](https://github.com/Krayirhan/BlokDunyasi) | Unity ile mobil blok bulmaca oyunu | Oyun Geliştirme |
+| 🌍 [**CultureBox**](https://github.com/Krayirhan/CultureBox) | Aktif geliştirme altında | Mobil / Dart |
+| 📝 [**Benim Günlerim**](https://github.com/Krayirhan/BenimGunlerim) | Günlük not / günce tutma uygulaması | Web / Kişisel Üretkenlik |
 
 </div>
 
