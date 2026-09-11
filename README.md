@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Furkan%20Turan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/Krayirhan">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Fikirden+%C3%BCr%C3%BCne%2C+tek+ba%C5%9F%C4%B1na.;Mobil+%2B+Web+%2B+Yapay+Zeka+%C3%BCretiyorum.;Kotlin+%E2%80%A2+React+Native+%E2%80%A2+Python+%E2%80%A2+Unity;7%2F24+kod%2C+7%2F24+%C3%B6%C4%9Freniyorum.&font=Fira%20Code&center=true&width=640&height=45&color=22D3EE&vCenter=true&size=22&pause=1800"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Mobil+%2B+Web+%2B+Yapay+Zeka+%C3%BCretiyorum.;Kotlin+%E2%80%A2+React+Native+%E2%80%A2+Python+%E2%80%A2+Unity;Solo+SaaS+%C3%BCr%C3%BCnleri+ve+tak%C4%B1m+projelerinde+production+kod.;S%C3%BCrekli+kod%2C+s%C3%BCrekli+%C3%B6%C4%9Freniyorum.&font=Fira%20Code&center=true&width=640&height=45&color=22D3EE&vCenter=true&size=22&pause=1800"/>
 </a>
 
 </div>
