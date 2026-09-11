@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Furkan%20Turan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Indie%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Furkan%20Turan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/Krayirhan">
   <img src="https://readme-typing-svg.demolab.com/?lines=Fikirden+%C3%BCr%C3%BCne%2C+tek+ba%C5%9F%C4%B1na.;Mobil+%2B+Web+%2B+Yapay+Zeka+%C3%BCretiyorum.;Kotlin+%E2%80%A2+React+Native+%E2%80%A2+Python+%E2%80%A2+Unity;7%2F24+kod%2C+7%2F24+%C3%B6%C4%9Freniyorum.&font=Fira%20Code&center=true&width=640&height=45&color=22D3EE&vCenter=true&size=22&pause=1800"/>
@@ -20,12 +20,12 @@
 
 ### 👋 Ben Kimim?
 
-Merhaba, ben **Furkan** — tek başına ürün fikrini alıp **mobil uygulamaya, web SaaS'a veya makine öğrenmesi çözümüne** dönüştürmeyi seven bir yazılım geliştiriciyim. Bir alana sıkışmıyorum: sabah bir Android uygulamasında Kotlin yazıyorum, öğleden sonra bir React Native mobil deneyimi kuruyorum, akşam da bir Jupyter Notebook'ta model eğitiyorum.
+Merhaba, ben **Furkan** — **mobil uygulama, web SaaS ve makine öğrenmesi** arasında geçiş yapan bir yazılım geliştiriciyim. Bir alana sıkışmıyorum: sabah bir Android uygulamasında Kotlin yazıyorum, öğleden sonra bir React Native mobil deneyimi kuruyorum, akşam da bir Jupyter Notebook'ta model eğitiyorum. Hem kendi ürünlerimi sıfırdan kuruyorum hem de takım ortamlarında production kod tabanlarına katkı veriyorum — güvenlik sertleştirme, test coverage ve PR review dahil.
 
 ```txt
 const furkan = {
   odak: ["Full-Stack Geliştirme", "Uygulamalı Yapay Zeka", "Mobil Uygulamalar"],
-  suanNeYapiyor: "Birden fazla SaaS ürününü (Floriven Studio, Saha Flow) aynı anda geliştiriyor",
+  suanNeYapiyor: "krayirhan-studio ve CultureBox üzerinde aktif geliştirme",
   ogreniyor: "Üretim ortamında ML servislerini ölçeklendirme",
   felsefe: "Bitirilmiş küçük bir ürün, yarım kalmış büyük bir fikirden iyidir",
 };
@@ -91,6 +91,7 @@ Java/Jakarta EE ile kurumsal sistemler, Oracle DB entegrasyonları, özel except
 | Proje | Açıklama | Alan |
 |---|---|---|
 | 🧠 [**BratsN**](https://github.com/Krayirhan/BratsN) | BraTS 2020 beyin tümörü segmentasyonu · 2D U-Net · **%86,91 Dice Skoru** | ML / Medikal Görüntüleme |
+| 🏢 [**krayirhan-studio**](https://github.com/Krayirhan/krayirhan-studio) | Aktif geliştirme altında — bu ay en çok commit alan proje | Web / Aktif |
 | 📊 [**churn-risk-platform**](https://github.com/Krayirhan/churn-risk-platform) | Uçtan uca müşteri kaybı riski tahmin platformu · FastAPI ile servis | ML / MLOps |
 | 🏨 [**hotel-booking-cancellation-prediction**](https://github.com/Krayirhan/hotel-booking-cancellation-prediction) | Maliyet-duyarlı karar mekanizmalı otel rezervasyon iptal tahmini | ML / Production |
 | 🏭 [**FactoryVision_AI**](https://github.com/Krayirhan/FactoryVision_AI) | Endüstriyel kusur tespiti MVP'si · FastAPI + Streamlit | ML / Bilgisayarlı Görü |
@@ -106,16 +107,23 @@ Java/Jakarta EE ile kurumsal sistemler, Oracle DB entegrasyonları, özel except
 ### 📈 GitHub İstatistikleri
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Krayirhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=6366F1&text_color=c9d1d9&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krayirhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=c9d1d9&langs_count=8"/>
-</div>
-
-<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krayirhan&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=22D3EE&currStreakLabel=22D3EE"/>
 </div>
 
+Repolardaki gerçek kod hacmine göre dil dağılımı (byte bazlı, GitHub API'den hesaplandı):
+
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krayirhan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=6366F1&point=ffffff"/>
+
+| Dil | Pay |
+|---|---|
+| HTML | ▓▓▓▓▓▓▓░░░░░░░░░░░░░ 34.9% |
+| TypeScript | ▓▓▓▓░░░░░░░░░░░░░░░░ 21.2% |
+| C# (Unity) | ▓▓▓░░░░░░░░░░░░░░░░░ 12.9% |
+| Kotlin | ▓▓░░░░░░░░░░░░░░░░░░ 9.4% |
+| Python | ▓▓░░░░░░░░░░░░░░░░░░ 9.1% |
+| Java | ▓░░░░░░░░░░░░░░░░░░░ 3.4% |
+| Dart | ▓░░░░░░░░░░░░░░░░░░░ 2.4% |
+
 </div>
 
 ---
