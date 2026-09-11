@@ -92,21 +92,15 @@ Java/Jakarta EE ile kurumsal sistemler, Oracle DB entegrasyonları, özel except
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krayirhan&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=22D3EE&currStreakLabel=22D3EE"/>
 </div>
 
-Günlük katkı haritası (1 Haziran – 31 Aralık 2026, GitHub API'den gerçek veri):
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krayirhan/Krayirhan/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krayirhan/Krayirhan/output/github-contribution-grid-snake.svg" />
+  <img alt="Katkı grafiğini yiyen yılan animasyonu" src="https://raw.githubusercontent.com/Krayirhan/Krayirhan/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
 
-```text
-     H   T   A    E   E    K   A
-Paz   x..xX#x#x#x.X.................
-Pzt  x#xx:XXXXxxx##X................
-Sal  X#XXX.XXX#x##X#................
-Car  .##x#.X#.#.##xx................
-Per  .#xx:X##XXx:#.:................
-Cum  xXXxxX###XXXx:x................
-Cmt  :xxx:X#x.x:xxx.................
-
-Toplam: 1.506 katki
-. 0    : 1-3    x 4-9    X 10-20    # 20+
-```
+*Kendi reponda GitHub Actions ile her gece otomatik üretilir — üçüncü parti bir servise bağımlı değil.*
 
 ---
 
