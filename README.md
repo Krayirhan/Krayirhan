@@ -1,12 +1,6 @@
-<div align="center">
+# Furkan Turan
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Furkan%20Turan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=18" width="100%"/>
-
-<a href="https://github.com/Krayirhan">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Kotlin+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+Unity;Mobil+%2B+Web+%2B+Makine+%C3%96%C4%9Frenmesi&font=Fira%20Code&center=true&width=640&height=45&color=22D3EE&vCenter=true&size=22&pause=1800"/>
-</a>
-
-</div>
+**Full-Stack Developer · AI/ML Engineer**
 
 ---
 
@@ -81,10 +75,6 @@ Java/Jakarta EE ile kurumsal sistemler, Oracle DB entegrasyonları, özel except
 ### 📈 GitHub İstatistikleri
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krayirhan&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=22D3EE&currStreakLabel=22D3EE"/>
-</div>
-
-<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krayirhan/Krayirhan/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krayirhan/Krayirhan/output/github-contribution-grid-snake.svg" />
@@ -99,7 +89,5 @@ Java/Jakarta EE ile kurumsal sistemler, Oracle DB entegrasyonları, özel except
 ### 📫 İletişim
 
 [![GitHub](https://img.shields.io/badge/GitHub-Krayirhan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Krayirhan)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=100&section=footer" width="100%"/>
 
 </div>
