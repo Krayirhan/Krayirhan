@@ -95,17 +95,17 @@ Java/Jakarta EE ile kurumsal sistemler, Oracle DB entegrasyonları, özel except
 Günlük katkı haritası (1 Haziran – 31 Aralık 2026, GitHub API'den gerçek veri):
 
 ```text
-     H   T   A    E   E    K   A    
-Paz   ▒··▒▓█▒█▒█▒·▓·················
-Pzt  ▒█▒▒░▓▓▓▓▒▒▒██▓················
-Sal  ▓█▓▓▓·▓▓▓█▒██▓█················
-Çar  ·██▒█·▓█·█·██▒▒················
-Per  ·█▒▒░▓██▓▓▒░█·░················
-Cum  ▒▓▓▒▒▓███▓▓▓▒░▒···············
-Cmt  ░▒▒▒░▓█▒·▒░▒▒▒················
+     H   T   A    E   E    K   A
+Paz   x..xX#x#x#x.X.................
+Pzt  x#xx:XXXXxxx##X................
+Sal  X#XXX.XXX#x##X#................
+Car  .##x#.X#.#.##xx................
+Per  .#xx:X##XXx:#.:................
+Cum  xXXxxX###XXXx:x................
+Cmt  :xxx:X#x.x:xxx.................
 
-Toplam: 1.506 katkı
-· 0    ░ 1-3    ▒ 4-9    ▓ 10-20    █ 20+
+Toplam: 1.506 katki
+. 0    : 1-3    x 4-9    X 10-20    # 20+
 ```
 
 ---
