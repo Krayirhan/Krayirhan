@@ -66,7 +66,7 @@ Java/Jakarta EE ile kurumsal sistemler, Oracle DB entegrasyonları, özel except
 | 🗣️ [**LingoRise**](https://github.com/Krayirhan/lingorise) | Türkçe konuşanlar için İngilizce kelime öğrenme uygulaması | Mobil / React Native |
 | 🧩 [**Blok Dünyası**](https://github.com/Krayirhan/BlokDunyasi) | Unity ile mobil blok bulmaca oyunu | Oyun Geliştirme |
 | 🌍 [**CultureBox**](https://github.com/Krayirhan/CultureBox) | Aktif geliştirme altında | Mobil / Dart |
-| 📝 [**Benim Günlerim**](https://github.com/Krayirhan/BenimGunlerim) | Günlük not / günce tutma uygulaması | Web / Kişisel Üretkenlik |
+| 📝 [**Benim Günlerim**](https://github.com/Krayirhan/BenimGunlerim) | Offline-first günlük görev ve rutin takibi — Jetpack Compose, Room, Hilt | Mobil / Android |
 
 </div>
 
