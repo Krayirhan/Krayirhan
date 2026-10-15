@@ -1,6 +1,6 @@
 # Furkan Turan
 
-**Full-Stack Developer · AI/ML Engineer**
+**Software Developer · AI/ML Engineer**
 
 ---
 
